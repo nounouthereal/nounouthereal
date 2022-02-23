@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nounou
+- 👋 Hi, I’m nounou
 - 👀 I’m interested in python bot coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a python bot.
