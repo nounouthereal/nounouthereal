@@ -1,10 +1,6 @@
-- 👋 Hi, I’m nounou
-- 👀 I’m interested in python bot coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a python bot.
-- 📫 How to reach : via discord : nounou#4483
+## 👋 Hello everyone, I am nounou
 
-<!---
-nounouthereal/nounouthereal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=nounouthereal&label=Profile+Views)
+
+##### I am a student which love coding discord.py and discord.js economy and moderation bot, I pass the longer of my time on discord.
+![Nounou's GitHub stats](https://github-readme-stats.vercel.app/api?username=nounouthereal&show_icons=true&theme=cobalt)
